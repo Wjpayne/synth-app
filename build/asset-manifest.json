@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/synth-app/static/css/main.073c9b0a.css",
+    "main.js": "/synth-app/static/js/main.5d0da446.js",
+    "static/js/787.34c127f2.chunk.js": "/synth-app/static/js/787.34c127f2.chunk.js",
+    "index.html": "/synth-app/index.html",
+    "main.073c9b0a.css.map": "/synth-app/static/css/main.073c9b0a.css.map",
+    "main.5d0da446.js.map": "/synth-app/static/js/main.5d0da446.js.map",
+    "787.34c127f2.chunk.js.map": "/synth-app/static/js/787.34c127f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5d0da446.js"
+  ]
+}
