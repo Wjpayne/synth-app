@@ -1,10 +1,10 @@
 export const GenerateSequence = () => {
-  const sequenceLength = 20;
-  const generatedSequence = [[]];
+  const sequenceLength = 10;
+  const generatedSequence = [["A3, 1"]];
 
   for (let i = 0; i < sequenceLength; i++) {
     let random = GetRandomInt(20);
-    let randomLength = GetRandomLength(12)
+    let randomLength = GetRandomLength(5)
     switch (random, randomLength) {
       case 0: {
         generatedSequence.push(["A3"], 1);
