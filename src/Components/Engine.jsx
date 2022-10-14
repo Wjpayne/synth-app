@@ -61,7 +61,7 @@ export const Engine = () => {
           onValueChange={setVolume}
           ariaLabelledBy={"volume"}
         >
-          <label id={"volume"}>Volume</label>
+          <label id={"volume"}>Attack</label>
         </Donut>
         <Donut
           diameter={100}
